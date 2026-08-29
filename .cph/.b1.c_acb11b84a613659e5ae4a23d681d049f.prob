@@ -1,0 +1,1 @@
+{"name":"Local: b1","url":"c:\\code ptitvua\\b1.c","tests":[{"id":1787973049524,"input":"16","output":""},{"id":1787973057197,"input":"","output":""},{"id":1787973058401,"input":"18","output":"no"},{"id":1787973059709,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code ptitvua\\b1.c","group":"local","local":true}
